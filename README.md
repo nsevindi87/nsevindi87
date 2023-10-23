@@ -4,8 +4,8 @@ Glad to see you here! 😄
 📍 Currently base at: Zurich, Switzerland
 Connect with me 🙋🏼‍♀️ 
    
+https://github-readme-stats.vercel.app/api?username=nsevindi87&show_icons=true&bg_color=00000000
 
-Visitors
 
 Languages and Tools 💻 
                     
